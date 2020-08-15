@@ -9,7 +9,7 @@
 To install the command line program, use the following:
 
 ```bash
-go get -u github.com/alitrack/zipdata/zipdata
+go get -u github.com/alitrack/zipdata
 ```
 
 ## Usage
